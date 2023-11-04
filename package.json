@@ -15,9 +15,13 @@
     "@emotion/styled": "^11.11.0",
     "@fontsource/dm-sans": "^5.0.17",
     "@fontsource/vazirmatn": "^5.0.17",
+    "@formatjs/intl": "^2.9.5",
     "@mui/material": "^5.14.16",
+    "i18next": "^23.6.0",
+    "i18next-browser-languagedetector": "^7.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.3.1"
   },
   "devDependencies": {
     "@types/node": "^20.8.10",

@@ -1,0 +1,10 @@
+{
+    "ticketsForBootshaus": "Tickets for Bootshaus",
+    "view": "View",
+    "ticketsFromNumber": "Tickets from {{price}}",
+    "ticketsFrom": "Tickets from",
+    "toTheTickets": "To the Tickets",
+    "amountOfTicketsLeft": "Only {{count}} Tickets left!",
+    "onDate": "On {{date}}",
+    "fromTime": "from {{time}} o'clock"
+}
