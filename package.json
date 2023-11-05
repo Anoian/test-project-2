@@ -16,6 +16,7 @@
     "@fontsource/dm-sans": "^5.0.17",
     "@fontsource/vazirmatn": "^5.0.17",
     "@formatjs/intl": "^2.9.5",
+    "@mui/icons-material": "^5.14.16",
     "@mui/material": "^5.14.16",
     "i18next": "^23.6.0",
     "i18next-browser-languagedetector": "^7.1.0",
